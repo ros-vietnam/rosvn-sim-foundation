@@ -79,7 +79,7 @@ It complements them with **community-driven rigor and openness**.
 
 ## 5. Repository Structure
 
-`
+```
 rosvn-sim-foundation/
 ├── README.md
 ├── docs/
@@ -103,7 +103,7 @@ rosvn-sim-foundation/
 ├── config/
 ├── tools/
 └── .github/
-`
+```
 
 
 ---
